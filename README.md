@@ -4,7 +4,11 @@
 
 <p id="description">This Python tool detects deepfake images and videos using the MTCNN model in a Jupyter Notebook. It accurately identifies manipulated content by analyzing facial features offering a reliable solution for ensuring digital media authenticity</p>
 
-<h2>Project Screenshots:</h2>
+<h2>Project Demo & Screenshots:</h2>
+
+
+https://github.com/AK2k30/DeepFake_video-image_detection/assets/105514643/903582a3-65ed-4411-9e2b-f4450590865e
+
 
   <div>
     <img src="https://imgtr.ee/images/2024/04/05/69dc38faa2ba419435b45961af97d718.png" style="width: 600px">
